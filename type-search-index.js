@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.assignment1javafxchart","l":"DatabaseConnector.CO2Data"},{"p":"com.example.assignment1javafxchart","l":"DatabaseConnector"},{"p":"com.example.assignment1javafxchart","l":"HelloApplication"},{"p":"com.example.assignment1javafxchart","l":"HelloController"}];updateSearchResults();
